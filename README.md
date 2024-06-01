@@ -1,33 +1,31 @@
 # BP_GameMode_UE532
+Developed with Unreal Engine 5.3.2 <br> 
+by: Katax
 
-Developed with Unreal Engine 5.3.2
-by: Katax 
+LinkedIn: www.linkedin.com/in/cliff-sharif<br> 
+Home: www.kataxwork.com<br> 
 
-LinkedIn: www.linkedin.com/in/cliff-sharif
-
-Home: www.kataxwork.com
+> [!NOTE]
+> Blueprint only
 
 This application:
 
-Demonstrate blueprint communication with 4 methods:
-- Using reference
-- Using picker
-- Access to GameMode
-- Using LineTrace
+>blueprint communication with 4 methods: <br> 
+> - Using reference <br> 
+> - Using picker  <br> 
+> - Access to GameMode  <br> 
+> - Using LineTrace  <br> 
+> using pattern of making simple "puzzle" for using in game. <br> 
 
-Demonstarte patterns of making simple puzzles in game.
 
-Blueprint only
 
 Using:
 
-GameMode
+GameMode<br> 
+Object Picker<br> 
+Collision handling<br> 
+LineTrace<br> 
+Custom widget<br> 
 
-Object Picker
-
-Collision handling
-
-LineTrace
-
-Custom widget
+<h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
 
