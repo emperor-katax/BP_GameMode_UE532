@@ -10,7 +10,7 @@ Home: www.kataxwork.com<br>
 
 This application:
 
->using pattern of making simple "puzzle" for using in game <br> 
+>making simple "puzzle" for using in game <br> 
 >blueprint communication with 4 methods: <br> 
 > - Using reference <br> 
 > - Using picker  <br> 
